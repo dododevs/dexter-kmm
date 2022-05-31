@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dexter</string>
+    <string name="activity_main_title">Shelf</string>
+    <string name="cd_activity_main_fab">FAB</string>
+</resources>
